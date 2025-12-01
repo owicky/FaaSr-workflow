@@ -38,7 +38,8 @@
   "DataStores": {
     "S3": {
       "Endpoint": " s3.us-east-005.backblazeb2.com ",
-      "Bucket": "faasr-test"
+      "Bucket": "faasr-test",
+      "Region": "us-east-005"
     }
   },
   "ActionContainers": {
